@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GetUserData/static/css/main.4c2fd859.css",
+    "main.js": "/GetUserData/static/js/main.d70f8534.js",
+    "index.html": "/GetUserData/index.html",
+    "main.4c2fd859.css.map": "/GetUserData/static/css/main.4c2fd859.css.map",
+    "main.d70f8534.js.map": "/GetUserData/static/js/main.d70f8534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2fd859.css",
+    "static/js/main.d70f8534.js"
+  ]
+}
