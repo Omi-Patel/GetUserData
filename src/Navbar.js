@@ -38,7 +38,7 @@ function Navbar() {
         <div className='mainDiv'>
 
           <div id='logo'>
-            <h1>Lets Grow More</h1>
+            <h1>MARK - 2</h1>
           </div>
 
           <div className='item'>
